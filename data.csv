@@ -1,3 +1,62 @@
 date,amount,category,description
-21-01-2000,100,food,lunch
-15-08-2024,20.0,income,idk
+01-01-2024,120,expense,grocery
+03-01-2024,200,income,freelance work
+06-01-2024,15,expense,snacks
+09-01-2024,75,expense,clothing
+12-01-2024,100,income,side job
+15-01-2024,70,expense,concert
+18-01-2024,30,expense,books
+21-01-2024,55,expense,lunch
+24-01-2024,150,income,consulting
+27-01-2024,20,expense,bike repair
+30-01-2024,250,income,freelance project
+02-02-2024,60,expense,video games
+05-02-2024,50,expense,accessories
+08-02-2024,300,income,salary
+11-02-2024,200,expense,utilities
+14-02-2024,60,expense,dinner
+17-02-2024,20,expense,stationery
+20-02-2024,250,income,freelance
+23-02-2024,55,expense,dinner
+26-02-2024,30,expense,taxi
+01-03-2024,200,expense,rent
+04-03-2024,30,expense,movie tickets
+07-03-2024,150,income,bonus
+10-03-2024,40,expense,accessories
+13-03-2024,200,expense,utilities
+16-03-2024,150,income,consulting
+19-03-2024,40,expense,lunch
+22-03-2024,250,income,freelance project
+25-03-2024,30,expense,taxi
+28-03-2024,90,expense,home decor
+31-03-2024,15,expense,coffee
+04-04-2024,70,expense,doctor visit
+07-04-2024,150,income,bonus
+10-04-2024,20,expense,snacks
+13-04-2024,50,expense,accessories
+16-04-2024,150,income,consulting
+19-04-2024,40,expense,dinner
+22-04-2024,200,expense,mortgage
+25-04-2024,60,expense,concert
+28-04-2024,90,expense,home decor
+01-05-2024,300,income,freelance
+04-05-2024,20,expense,stationery
+07-05-2024,200,expense,rent
+10-05-2024,50,expense,medicine
+13-05-2024,150,income,consulting
+16-05-2024,70,expense,lunch
+19-05-2024,30,expense,taxi
+22-05-2024,90,expense,clothing
+25-05-2024,200,expense,utilities
+28-05-2024,150,income,bonus
+31-05-2024,40,expense,gas
+03-06-2024,200,expense,mortgage
+06-06-2024,60,expense,concert
+09-06-2024,30,expense,lunch
+12-06-2024,150,income,consulting
+15-06-2024,90,expense,home decor
+18-06-2024,15,expense,coffee
+21-06-2024,300,income,salary
+24-06-2024,40,expense,gas
+27-06-2024,20,expense,stationery
+30-06-2024,200,expense,rent
